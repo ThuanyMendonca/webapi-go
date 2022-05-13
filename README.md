@@ -1,21 +1,21 @@
 # webapi-go
 
-- Iniciando o projeto:
+Iniciando o projeto:
 
-go mod init github.com/SEU_USER/SEU_REPOSITORIO
+- go mod init github.com/SEU_USER/SEU_REPOSITORIO
 
-- Instalando bibliotecas:
+Instalando bibliotecas:
 
-go get github.com/gin-gonic/gin
+- go get github.com/gin-gonic/gin
 
-go get	gorm.io/driver/postgres
+- go get	gorm.io/driver/postgres
 
-go get gorm.io/gorm 
+- go get gorm.io/gorm 
 
-- Docker:
+Docker:
 
-docker-compose up --build
+- docker-compose up --build
 
-- Executar projeto:
+Executar projeto:
 
-go run main.go
+- go run main.go
