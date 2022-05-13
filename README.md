@@ -7,7 +7,9 @@ go mod init github.com/SEU_USER/SEU_REPOSITORIO
 - Instalando bibliotecas:
 
 go get github.com/gin-gonic/gin
+
 go get	gorm.io/driver/postgres
+
 go get gorm.io/gorm 
 
 - Docker:
